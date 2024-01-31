@@ -31,3 +31,12 @@
 
 ## Установка вэб сервиса
 docker pull exelero565/my_app_property
+
+## Для установки проекта следуйте шагам:
+
+```bash
+# Клонируйте репозиторий
+git clone https://github.com/exelero565/Project.git
+
+# Перейдите в директорию проекта
+cd Project
