@@ -30,7 +30,7 @@
 В целом, получилось преобразовать, подготовить данные, подобрать оптимальные гиперпараметры и создать вэб-сервис по предсказанию стоиомсти недвижимости.
 
 ## Установка вэб сервиса
-docker pull exelero565/my_app_property
+```docker pull exelero565/my_app_property```
 
 ## Для установки проекта следуйте шагам:
 
@@ -39,4 +39,4 @@ docker pull exelero565/my_app_property
 git clone https://github.com/exelero565/Project.git
 
 # Перейдите в директорию проекта
-cd Project
+cd Project```
