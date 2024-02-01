@@ -41,3 +41,16 @@ git clone https://github.com/exelero565/Project.git
 
 # Перейдите в директорию проекта
 cd Project
+
+# Создание и активация виртуального окружения (рекомендуется для изоляции зависимостей проекта):
+python -m venv venv
+# Для Windows
+venv\Scripts\activate
+# Для Unix или MacOS
+source venv/bin/activate
+
+# Установка необходимых зависимостей:
+pip install -r requirements.txt
+
+
+
